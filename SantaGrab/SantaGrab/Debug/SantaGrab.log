@@ -1,0 +1,68 @@
+﻿  cTextureMgr.cpp
+  cTexture.cpp
+  cSprite.cpp
+c:\users\jreid216\desktop\santagrab\santagrab\csprite.cpp(180): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\csprite.cpp(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\csprite.cpp(297): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  cSoundMgr.cpp
+  cSound.cpp
+  cSDL2WNDManager.cpp
+  cRocket.cpp
+c:\users\jreid216\desktop\santagrab\santagrab\crocket.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\crocket.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\crocket.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\crocket.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\crocket.cpp(38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\crocket.cpp(39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\crocket.cpp(41): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\crocket.cpp(42): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  cGame.cpp
+c:\users\jreid216\desktop\santagrab\santagrab\cgame.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\jreid216\desktop\santagrab\santagrab\cgame.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\jreid216\desktop\santagrab\santagrab\cgame.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\jreid216\desktop\santagrab\santagrab\cgame.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\jreid216\desktop\santagrab\santagrab\cgame.cpp(130): warning C4018: '<': signed/unsigned mismatch
+  cFontMgr.cpp
+  cFont.cpp
+c:\users\jreid216\desktop\santagrab\santagrab\cfont.cpp(26): warning C4150: deletion of pointer to incomplete type '_TTF_Font'; no destructor called
+  c:\users\jreid216\desktop\sdl2\sdl2_ttf-2.0.14\include\sdl_ttf.h(86): note: see declaration of '_TTF_Font'
+c:\users\jreid216\desktop\santagrab\santagrab\cfont.cpp(40): warning C4150: deletion of pointer to incomplete type '_TTF_Font'; no destructor called
+  c:\users\jreid216\desktop\sdl2\sdl2_ttf-2.0.14\include\sdl_ttf.h(86): note: see declaration of '_TTF_Font'
+  cBullet.cpp
+c:\users\jreid216\desktop\santagrab\santagrab\cbullet.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\cbullet.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\cbullet.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\cbullet.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\cbullet.cpp(38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\cbullet.cpp(39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  cBkGround.cpp
+  cAsteroid.cpp
+c:\users\jreid216\desktop\santagrab\santagrab\casteroid.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\casteroid.cpp(34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\jreid216\desktop\santagrab\santagrab\casteroid.cpp(35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  AsteroidsSDL.cpp
+  Generating Code...
+  SantaGrab.vcxproj -> C:\Users\JREID216\Desktop\SantaGrab\Debug\SantaGrab.exe
+  SantaGrab.vcxproj -> C:\Users\JREID216\Desktop\SantaGrab\Debug\SantaGrab.pdb (Partial PDB)
+  copying SDL2.dll to debug directory
+  C:\Users\JREID216\Desktop\SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\JREID216\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File(s) copied
+  C:\Users\JREID216\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\libfreetype-6.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\zlib1.dll
+  3 File(s) copied
+  C:\Users\JREID216\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libFLAC-8.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libmodplug-1.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libogg-0.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbis-0.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbisfile-3.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\SDL2_mixer.dll
+  C:\Users\JREID216\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\smpeg2.dll
+  7 File(s) copied
